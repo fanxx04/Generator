@@ -1,7 +1,8 @@
 # Nova Services Free Menu
 
 - Premium Menu 5$
-- Make Sure You Have 3.10+ Pyton Install!
+- Make Sure You Have 3.10+ Python Install!
+- Download Python Here https://www.python.org/downloads/
 - Need Help Dm Me Tim#0001
 - Discord Coming Soon
 - Nitro Codes Generator
