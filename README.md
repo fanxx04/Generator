@@ -4,7 +4,7 @@
 - Make Sure You Have 3.10+ Python Install!
 - Download Python Here https://www.python.org/downloads/
 - Need Help Dm Me Tim#0001
-- Discord Coming Soon
+- Discord https://discord.gg/kq7GD85p63
 - Nitro Codes Generator
 - Nitro Promo Codes Generator
 - Roblox Codes Generator
