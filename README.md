@@ -1,5 +1,6 @@
 # Scarlet Services Free Menu
 
+- Premium Menu 5
 - Make Sure You Have 3.10+ Pyton Install!
 - Need Help Dm Me Tim#0001
 - Discord Coming Soon
